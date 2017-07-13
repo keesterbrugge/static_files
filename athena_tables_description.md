@@ -1,8 +1,10 @@
 # Athena database description
 ---
 
- > **Question 1: ** Can you confirm the following? We have all the information of all impression that we bid on, either in the notifications table or in the win_calls table. We don't have any information on bid requests that we did not bid on.
- > **Question 2: ** Could you confirm that that the descriptions provided in the table below are correct?
+ > **Question 1:** Can you confirm the following? We have all the information of all impression that we bid on, either in the notifications table or in the win_calls table. We don't have any information on bid requests that we did not bid on.
+ 
+ > **Question 2:** Could you confirm that that the descriptions provided in the table below are correct?
+ 
  > **Question 3:** Could you remove the incorrect option if 2 options are given, or both and provide the correct answer?
 
 | Table | Column| Description |
